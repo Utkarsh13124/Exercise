@@ -1,0 +1,9 @@
+Revision :
+    npx create-react-app directory_here
+
+    npx installation , and github pr repo bnanaa
+
+    DEPENDENCIES START , SETUP DONE , REACT IS RUNNING ON LOCALHOST SERVER 3000.
+    Day - 1 finished.
+
+    
