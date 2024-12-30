@@ -1,3 +1,6 @@
+Concept used of React :- Routes
+
+
 Revision :
     npx create-react-app directory_here
 
@@ -7,3 +10,6 @@ Revision :
     Day - 1 finished.
 
     
+// FIle structure  :- in this stage our aims is to set up basic layout , like home page , componets , pages , exercise, which we are thinking or have tell to do so.
+
+create them and do importation work
