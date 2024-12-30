@@ -1,6 +1,8 @@
 Concept used of React :- Routes
 MUI :- Box , Stack one d or 2 d its like flex and grids , Typography is like p tag , Button
 
+
+Position property :- relative and absolute
 Revision :
     npx create-react-app directory_here
 
