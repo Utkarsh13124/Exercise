@@ -1,5 +1,5 @@
 Concept used of React :- Routes
-
+MUI :- Box , Stack one d or 2 d its like flex and grids , Typography is like p tag , Button
 
 Revision :
     npx create-react-app directory_here
@@ -25,3 +25,7 @@ saari values given thi  unhi ke hisab se bnana tha, we used Stack from material 
 
 Diff btw link & a
 (<Link>) is used for navigating to a specific route ("/home"), while the second link (<a>) is likely used for scrolling to a specific section within the same page (#exercise).
+
+
+homepage is further divided into three parts for easy making , exercise , searchbar , and herobanner.
+our css is already defined , so we keep a=our element name like that, 
