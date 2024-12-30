@@ -13,3 +13,15 @@ Revision :
 // FIle structure  :- in this stage our aims is to set up basic layout , like home page , componets , pages , exercise, which we are thinking or have tell to do so.
 
 create them and do importation work
+
+Theory :- Browser route ki help se we go in differet routes without reloading the page
+Rotes , me route set krte hi , aur element ki help se batate hi ki kon se page pr jana hi.
+
+// Creating a Navbar or we can take some other things to creating one by one.
+
+saari values given thi  unhi ke hisab se bnana tha, we used Stack from material ui , sab bna bnaya  hua hi , we have to just to use.
+
+// creating home page , we are also looking our localhost to see the result instantly.
+
+Diff btw link & a
+(<Link>) is used for navigating to a specific route ("/home"), while the second link (<a>) is likely used for scrolling to a specific section within the same page (#exercise).
